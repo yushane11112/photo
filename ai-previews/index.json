@@ -3,6 +3,8 @@
     "sha256": "0ad5572a7a1f6689b3ac338891bf6d37551bf09ea11fa4a3d5046eacbbd6df85",
     "original": "IMG_1297.jpeg",
     "preview": "ai-previews/IMG_1297.jpeg.b64",
+    "preview_jpeg": "ai-previews/IMG_1297.jpeg.preview.jpg",
+    "preview_sha256": "9dfc9752e147357e77717567fbea442ce282f88d937adb29004bd0c779c8cb09",
     "original_dimensions": [
       4284,
       5712
@@ -17,6 +19,8 @@
     "sha256": "ee3e39ccacc548959f42306ebc5f05040b17034dcdd7dedb73448438b35fcc72",
     "original": "IMG_1299.jpeg",
     "preview": "ai-previews/IMG_1299.jpeg.b64",
+    "preview_jpeg": "ai-previews/IMG_1299.jpeg.preview.jpg",
+    "preview_sha256": "58f38d9c5ea4ffb4e44b7cc5ae465420a859c690fb01ac8af399235601164ee6",
     "original_dimensions": [
       4284,
       5712
