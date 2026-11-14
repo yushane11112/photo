@@ -82,7 +82,7 @@ jobs:
               origpath = quote('../'+key, safe='/')
               prevpath = quote(info['preview_jpeg'].removeprefix('ai-previews/'), safe='/')
               verify.append(f'| **{key}**<br><img src="{origpath}" width="300"> | **Preview**<br><img src="{prevpath}" width="300"> |')
-          (destroot/'VERIFY.md').write_text('\\n'.join(verify)+'\\n', encoding='utf-8')
+          (destroot/'VERIFY.md').write_text('\n'.join(verify)+'\n', encoding='utf-8')
           print('Indexed',len(items),'photos')
           PY
       - name: Commit previews without changing originals
